@@ -6,4 +6,5 @@ Note: For this case study, only the trips to and from the airport are being cons
 2. Find out the gap between supply and demand and show the same using plots.
 •	Find the time slots when the highest gap exists
 •	Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots
-Tableau Public Link: https://public.tableau.com/app/profile/udit.parekh/viz/UberDemandSupply/Dashboard1
+
+Visualization Solution Tableau Public Link: https://public.tableau.com/app/profile/udit.parekh/viz/UberDemandSupply/Dashboard1
